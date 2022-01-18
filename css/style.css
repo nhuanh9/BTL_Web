@@ -1,0 +1,22 @@
+img {
+    width: 100%;
+    border-radius: 5px;
+}
+.logo img {
+    height: 227px;
+}
+.banner img {
+    border-radius: 5px;
+}
+
+ul li {
+    list-style: none;
+}
+
+i {
+    font-size: 30px;
+}
+
+* {
+    font-family: 'Lobster', cursive;
+}
