@@ -20,3 +20,7 @@ i {
 * {
     font-family: 'Lobster', cursive;
 }
+
+.card img {
+    height: 300px ;
+}
